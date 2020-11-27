@@ -27,3 +27,5 @@ haha
 陈辰做一次测试！
 
 陈辰在分支chen上修改
+
+陈辰测试在idea上上传一个testbranch到GitHub上
